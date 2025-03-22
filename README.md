@@ -20,12 +20,12 @@ Antes de começar, você precisa ter instalado em sua máquina:
 ## 🔧 Como Iniciar o Projeto
 ### 1️⃣ Clone o repositório
 ```sh
-git clone https://github.com/seu-usuario/ignite-teams.git
+git clone https://github.com/Vih6460/MBA_Ctrl_Team.git
 ```
 
 ### 2️⃣ Acesse a pasta do projeto
 ```sh
-cd ignite-teams
+cd MBA_Ctrl_Team
 ```
 
 ### 3️⃣ Instale as dependências
